@@ -1,0 +1,45 @@
+
+
+header {background-color: #F2D767);
+}
+.nav-bar {background-color: rgba(239,236,155,0.79); font-family: "Comic Sans MS"; font-weight: bold;
+    min-height: 450px;
+}
+
+h2 {
+    padding: 20px;
+}
+.navigation, .ads {
+    min-height: 200px;
+    background-color: #F2F0B0;
+    margin-bottom: 10px;
+}
+.article {
+    min-height: 350px;
+    background-color: #F2F0B0 ;
+}
+.footer {
+    margin-top: 10px;
+    min-height: 50px;
+    background-color: #F2D767;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sides {background-color: green;}
+.no-padding {
+    padding: 0;
+}
+
